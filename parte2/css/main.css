@@ -1,1 +1,24 @@
-/* Inserta tu CSS aqui */
+body{
+	margin:0;
+	padding:0;
+}
+.blue{
+	background-color:blue;
+	width:215px;
+	height:215px;
+	position:relative;
+}
+.green{
+	width:105px;
+	height:106px;
+	background-color:green;
+	position:absolute;
+	left:55px;
+	top:55px;
+}
+.black{
+	width:55px;
+	height:55px;
+	background-color:black;
+	position:static;
+}

@@ -1,1 +1,27 @@
-/* Inserta tu CSS aqui */
+body{
+	margin:0;	
+	padding:0;
+}
+.red{
+	width:215px;
+	height:215px;
+	background-color:#ED462F;
+	position: static;
+}
+.purple{
+	width:105px;
+	height:106px;
+	background-color:#752E80;
+	position:relative;
+	left:55px;
+	top:55px;
+
+}
+.yellow{
+	width:59px;
+	height:54px;
+	background-color:#fff835;
+	position:absolute;
+}
+
+
